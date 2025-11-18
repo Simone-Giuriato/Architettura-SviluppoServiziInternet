@@ -8,6 +8,7 @@ dove nodoServer è il nome della macchina server e portaServer è il numero di p
 
 Ogni volta che viene lanciato, il client deve inviare una richiesta al server, che a sua volta risponde con una citazione ovverosia una stringa presa da un array predefinito di aforismi, prover e frsai celebri.
 
+
 Ad esemio, dato l'array:
 
 String[] quotations = {
