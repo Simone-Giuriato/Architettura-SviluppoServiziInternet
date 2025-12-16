@@ -1,0 +1,6 @@
+55, Alto
+10, Basso
+169, Medio
+1, Alto
+85, Basso
+150, Basso

@@ -1,0 +1,25 @@
+00, bla, bla, bla
+2300, bla, Simone, bla
+2300, bla, Simone, bla
+455885, bla, bla, bla
+442300, bla, bla, bla
+442300, bla, Simone, bla
+1112300, bla, bla, bla
+2300, bla, bla, bla
+2345544600, bla, bla, bla
+2300, bla, bla, Enesto
+6228, bla, bla, Marco
+2300, bla, bla, bla
+45562, bla, bla, bla
+156, bla, bla, bla
+85, bla, bla, Simone
+4552,casa,Pippo
+1500,casa,Simone
+56,elettronica,Simone
+1058,abbigliamento,Pietro
+2300, bla, bla, Enesto
+6228, bla, bla, Marco
+2300, bla, bla, bla
+45562, bla, b
+
+
