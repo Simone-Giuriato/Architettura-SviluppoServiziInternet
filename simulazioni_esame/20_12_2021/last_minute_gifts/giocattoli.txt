@@ -1,0 +1,10 @@
+il prezzo, il nome del produttore, il nome dell’articolo, il codice
+dell’articolo, ecc.
+
+50,Lego,Camioncino,CAAAA
+4000,Apple,Orologio,AOOO
+2000,Samsung,Telefono,S45
+25,Lego,Fiore,F58
+152,Lego,Macchina,M89
+10,Lego,Mattoncino,M788
+200,Apple,Telefono,A458
