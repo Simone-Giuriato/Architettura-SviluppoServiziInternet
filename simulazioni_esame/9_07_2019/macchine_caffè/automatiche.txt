@@ -1,0 +1,13 @@
+88,Lavazza,c58,10055
+90,Illy,c89,4525
+65,Carpigiani,d9058,1054
+100,Bialetti,c8,1054
+88,Lavazza,c58,10055
+90,Illy,c89,4525
+65,Carpigiani,d9058,1054
+100,Bialetti,c8,1054
+88,Lavazza,c58,10055
+90,Illy,c89,4525
+65,Carpigiani,d9058,1054
+100,Bialetti,c8,1054
+98,nescfè,c58,10055
